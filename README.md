@@ -4,7 +4,6 @@ This style guide provides standardized naming conventions for your tools (FFX pr
 ## General Guidelines
 1. Descriptive Names: Use descriptive names that clearly indicate the function of the script.
 2. Title Case: Use Title Case for multi-worded names
-3. 
 
 ## Structure
 Each name should have the following structure:
@@ -23,7 +22,8 @@ Ignore Parent Scale.ffx
 Inherit Parent Opacity.ffx
 Drift Position.ffx
 Drift Rotation.ffx
-Drift Scale.ffx```
+Drift Scale.ffx
+```
 
 
 # Taxonomy
