@@ -1,5 +1,4 @@
 # After Effects Tooling Guide
----
 This style guide provides standardized naming conventions for your tools (FFX presets, expressions, on scripts to ensure consistency, clarity, and easy identification of their functions.
 
 ## General Guidelines
@@ -28,7 +27,6 @@ Drift Scale.ffx
 
 
 # Taxonomy
----
 ### Creation:
 - **Add**: Introduces or places a new element, object, or attribute into the composition or project.
 - **Create**: Constructs or generates a new element, layer, or object from scratch within the design or animation.
