@@ -1,17 +1,30 @@
 # after-effects-styleguide
-# Tool Naming Convention Style Guide
 This style guide provides standardized naming conventions for your tools (FFX presets, expressions, on scripts to ensure consistency, clarity, and easy identification of their functions.
 
 ## General Guidelines
-Descriptive Names: Use descriptive names that clearly indicate the function of the script.
-Title Case: Use Title Case for multi- worded names 
+1. Descriptive Names: Use descriptive names that clearly indicate the function of the script.
+2. Title Case: Use Title Case for multi-worded names
+3. 
 
 ## Structure
-Each script name should have the following structure:
-Verb + Object + OptionalDetails.jsx
-Verb: Describes the action the script performs (e.g., Add, Update, Remove, Generate).
-Object: The primary object the script affects (e.g., Layer, Keyframes, Comps).
-Optional Details: Additional details if needed for clarity 
+Each name should have the following structure:
+```Verb + Object + OptionalDetails.ext````
+
+- Verb: Describes the action the script performs (e.g., Add, Update, Remove, Generate).
+- Object: The primary object the script affects (e.g., Layer, Keyframes, Comps).
+- Optional Details: Additional details if needed for clarity
+### Examples
+```
+Add Comp Padding.ffx
+Add Layer Padding.ffx
+Add Placeholder - FTG A.ffx
+Add Placeholder - FTG B.ffx
+Ignore Parent Scale.ffx
+Inherit Parent Opacity.ffx
+Drift Position.ffx
+Drift Rotation.ffx
+Drift Scale.ffx```
+
 
 # Taxonomy
 ### Creation:
