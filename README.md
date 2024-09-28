@@ -8,7 +8,7 @@ This style guide provides standardized naming conventions for your tools (FFX pr
 
 ## Structure
 Each name should have the following structure:
-```Verb + Object + OptionalDetails.ext````
+```Verb + Object + OptionalDetails.ext```
 
 - Verb: Describes the action the script performs (e.g., Add, Update, Remove, Generate).
 - Object: The primary object the script affects (e.g., Layer, Keyframes, Comps).
